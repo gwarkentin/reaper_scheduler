@@ -1,0 +1,17 @@
+{
+    "type": "object",
+    "properties": {
+        "file_list": {
+            "type" : "array",
+            "items" : {
+                "type": "object",
+                "properties": {
+                    "project_filepath": {"type": "string"},
+                    "render_filepath": {"type" : "string"},
+                    "upload_filepath": {"type" : "string"},
+                    "upload_filename": {"type" : "string"}
+                }
+            }
+        }
+    }
+}

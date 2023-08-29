@@ -1,0 +1,18 @@
+{
+    "file_list":[
+        {
+            "project_name": "shabu shabu",
+            "project_filepath": "/Users/gabrielwarkentin/Documents/REAPER Media/silly willy me/silly willy me.rpp",
+            "render_filepath": "/Users/gabrielwarkentin/Documents/REAPER Media/silly willy me/silly willy me.wav",
+            "upload_path": "/songrender/upload/new",
+            "upload_filename": "silly willy me.wav"
+        },
+        {
+            "project_name": "shabu shabu",
+            "project_filepath": "/Users/gabrielwarkentin/Documents/REAPER Media/silly willy me/silly willy me.rpp",
+            "render_filepath": "/Users/gabrielwarkentin/Documents/REAPER Media/silly willy me/silly willy me.wav",
+            "upload_path": "/songrender/upload/new",
+            "upload_filename": "silly willy me.wav"
+        }
+    ]
+}
